@@ -1,5 +1,5 @@
 
-import img from "../assets/hero.jpg"
+import img from "../assets/about.jpg"
 
 const About = () => {
   return (
@@ -11,9 +11,12 @@ const About = () => {
     <img  data-aos="fade-down" src={img} width={290} height={290} className=" rounded  border-2 p-1 border-fuchsia-500 img_glow"alt="" />
             <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white  '>
                 <h1  data-aos="fade-right" className='text-[52px] font-semibold mb-8 leading-normal text-fuchsia-500 uppercase'> About Me</h1>
-                <p  data-aos="fade-left">I hold a degree from Gobi Arts and Science College and have completed a comprehensive full-stack web development course. 
-                I also have practical experience in machine learning, particularly through my project in inventory management
-                </p>
+                <p  data-aos="fade-left">To work in a dynamic environment that uses my skills and expertise in
+the process of growth and development while allowing me to learn and enrich my
+competences.    </p><br/>    
+   <p data-aos="fade-left"> I can craft engaging websites using Bootstrap,Tailwind Css,JavaScript and React.js , as well as hands-on experience with some projects which I have mentioned below.</p>
+
+            
                 <div className="flex mt-8 gap-2 ">
                     <div className="flex items-center justify-center">
                         <div className="flex space-x-2 ">

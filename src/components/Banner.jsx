@@ -21,7 +21,9 @@ const Banner = () => {
         <div  className='lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg-text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center '>
             <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white  '>
                 <h1 data-aos="fade-right" className='text-[52px] font-semibold mb-8 leading-normal uppercase'>Hi I'm<span className='text-fuchsia-500'>  Keerthika</span></h1>
-                <p data-aos="fade-left " className="font-semibold uppercase" >I'm Full Stack Web Developer</p>
+                <p data-aos="fade-left " className="font-semibold uppercase text-[24px]" >I'm Full Stack Web Developer</p><br/>
+                <p data-aos="fade-left " className="font-semibold uppercase " >I can create dynamic projects using MERN Stack</p>
+
                 <div className="flex mt-8 gap-2 ">
                     <div className="flex items-center justify-center">
                         <div className="flex space-x-2 ">
